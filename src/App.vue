@@ -16,12 +16,11 @@
           <p class="hero-tag">Programmer / Learner / Builder</p>
           <h1>你好，我是拾忆</h1>
           <p class="hero-desc">
-            我正在持续学习前端开发、Python 与工程化实践，
-            也在一步步搭建属于自己的程序员个人品牌网站。
+            我正在持续学习全栈开发并不断了解AI相关的知识，也在一步步搭建属于自己的程序员个人网站。欢迎沟通交流。
           </p>
           <div class="hero-actions">
             <a class="btn primary" href="#projects">查看项目</a>
-            <a class="btn secondary" href="#contact">联系我</a>
+            <a class="btn secondary" href="#contact">联系方式</a>
           </div>
         </div>
 
@@ -29,7 +28,7 @@
           <h3>当前状态</h3>
           <ul>
             <li>正在学习：Vue 3 + Vite</li>
-            <li>关注方向：前端 / Python / 数据相关开发</li>
+            <li>关注方向：后端 / AI</li>
             <li>目标：持续积累作品与技术输出</li>
           </ul>
         </div>
@@ -42,11 +41,11 @@
         </div>
         <div class="about-card">
           <p>
-            我是一名正在持续成长中的开发者，目前在系统学习前端开发与项目实践。
+                我是一名正在持续成长中的开发者，目前在系统学习前端开发与项目实践。
             我希望通过这个网站记录自己的学习路径、展示项目成果，并逐步建立个人技术品牌。
           </p>
           <p>
-            这个网站本身也会作为我的长期项目，从基础页面开始，后续逐步加入博客、项目详情、
+                这个网站本身也会作为我的长期项目，从基础页面开始，后续逐步加入博客、项目详情、
             深色模式、响应式优化等功能。
           </p>
         </div>
@@ -115,7 +114,7 @@
       <section id="contact" class="section">
         <div class="section-header">
           <p class="section-tag">Contact</p>
-          <h2>联系我</h2>
+          <h2>联系方式</h2>
         </div>
         <div class="contact-card">
           <p>欢迎通过下面的方式找到我</p>
