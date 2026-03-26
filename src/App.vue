@@ -118,10 +118,10 @@
           <h2>联系我</h2>
         </div>
         <div class="contact-card">
-          <p>欢迎通过下面的方式找到我。</p>
+          <p>欢迎通过下面的方式找到我</p>
           <ul class="contact-list">
-            <li><strong>GitHub：</strong> your-github-link</li>
-            <li><strong>Email：</strong> your-email@example.com</li>
+            <li><strong>GitHub：</strong> https://github.com/shyi655466</li>
+            <li><strong>Email：</strong> yi655466@gmail.com</li>
             <li><strong>Domain：</strong> shyi655466.com</li>
           </ul>
         </div>
